@@ -1,7 +1,6 @@
 import React from 'react';
 import HomeIcon from '@mui/icons-material/Home';
 import MapIcon from '@mui/icons-material/Map';
-import BookOnlineIcon from '@mui/icons-material/BookOnline';
 import HelpIcon from '@mui/icons-material/Help';
 
 export const SidebarData = [
@@ -15,12 +14,6 @@ export const SidebarData = [
         title: "Garden Map",
         icon: <MapIcon />,
         path: "/GardenMap",
-        cName: 'nav-text'
-    },
-    {
-        title: "Book Online",
-        icon: <BookOnlineIcon />,
-        path: "/BookOnline",
         cName: 'nav-text'
     },
     {

@@ -1,4 +1,4 @@
-# Garden Spronq App
+# Garden mushrooms App
 This project was generated with [Create React App](https://github.com/facebook/create-react-app) version 18.2.0
 
 ## Add packge registry voor Map

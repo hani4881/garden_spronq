@@ -181,7 +181,7 @@ function GardenMap() {
           </Marker>
         ))}:
       </MapContainer>
-      {/* <h1>Garden map SpronQ</h1> <h5>Loading basic map using layer</h5> */}
+      {/* <h1>Garden map mushrooms</h1> <h5>Loading basic map using layer</h5> */}
       <div className='BoxFilter'>
         <div>
           <h4 className='filteColor'>Colors</h4>

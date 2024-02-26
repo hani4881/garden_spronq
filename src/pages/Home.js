@@ -5,7 +5,7 @@ function HomePage() {
     return(
         <>
         <div className='bg-text'>
-            <h1>Garden SpronQ</h1>
+            <h1>Garden Mushrooms</h1>
         </div>
         </>
     )

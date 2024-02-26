@@ -16,14 +16,14 @@ function Navbar() {
                 <div className="navbar">
                     <Link to="#" className='menu-bars'>
                         <MenuOpenIcon style={{ color: 'white' }} onClick={showSidebar} /> 
-                    </Link><div className='title'><h3>Garden SpronQ</h3></div>
+                    </Link><div className='title'><h3>Garden mushrooms</h3></div>
                 </div>
                 <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
                     <ul className='nav-menu-item' onClick={showSidebar}>
                         <li className="navbar-toggle">
                             <Link to="#" className='manu-bars'>
                                 <CloseIcon style={{ color: 'white' }} />
-                            </Link><div className='title'><h3>Garden SpronQ</h3></div>
+                            </Link><div className='title'><h3>Garden mushrooms</h3></div>
                         </li>
                         {SidebarData.map((item, index) => {
                             return (
